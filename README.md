@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shushay Kebedew
 
-### Frontend Developer • React & Next.js Enthusiast • AI Automation Learner
+### Full-Stack Developer • React & Next.js Enthusiast • AI Automation
 
 I enjoy building fast, accessible, and user-friendly web applications with modern technologies. My focus is writing clean, maintainable code and creating interfaces that deliver a great user experience.
 
@@ -86,13 +86,11 @@ I enjoy building fast, accessible, and user-friendly web applications with moder
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shushaykebedew&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shushaykebedew)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shushaykebedew&layout=compact&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shushaykebedew&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shushaykebedew)
 
 ---
 
