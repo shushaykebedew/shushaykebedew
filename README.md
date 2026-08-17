@@ -114,7 +114,8 @@ I enjoy turning ideas into reliable products that solve real-world problems. Alo
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
+![System Design](https://img.shields.io/badge/System_Design-4B5563?style=for-the-badge&logo=blueprint&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-6366F1?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## 📊 GitHub Analytics
