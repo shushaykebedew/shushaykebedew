@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Shushay Kebedew
 
-### Full-Stack Developer • React • Next.js • Node.js • AI Automation
+### Full-Stack Developer • React • Next.js • Node.js
 
 I build fast, scalable, and user-friendly web applications with modern technologies. I enjoy creating clean, maintainable code, intuitive user interfaces, and automation solutions that solve real-world problems.
 
