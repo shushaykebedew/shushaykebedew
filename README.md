@@ -16,9 +16,9 @@ I build fast, scalable, and user-friendly web applications with modern technolog
 
 ## 🚀 About Me
 
-I'm a full-stack developer passionate about building modern web applications with **React, Next.js, TypeScript, Node.js, and MongoDB**. I focus on writing clean, maintainable code, creating accessible and responsive interfaces, and delivering great user experiences.
+I'm a full-stack developer passionate about building modern web applications with **React, Next.js, TypeScript, Node.js, and PostgreSQL**. I focus on writing clean, maintainable code, creating accessible and responsive interfaces, and delivering great user experiences.
 
-I enjoy turning ideas into reliable products that solve real-world problems. Alongside web development, I'm exploring **AI automation with n8n and OpenAI APIs**, while continuously improving my knowledge of backend architecture, system design, and scalable application patterns.
+I enjoy turning ideas into reliable products that solve real-world problems while continuously improving my knowledge of backend architecture, system design, and scalable application patterns.
 
 ---
 
