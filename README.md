@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Shushay Kebedew
 
-### Full-Stack Developer • React • Next.js • Node.js
+### Software Developer • React • Next.js • Node.js
 
 I build fast, scalable, and user-friendly web applications with modern technologies. I enjoy creating clean, maintainable code, intuitive user interfaces, and automation solutions that solve real-world problems.
 
@@ -16,7 +16,7 @@ I build fast, scalable, and user-friendly web applications with modern technolog
 
 ## 🚀 About Me
 
-I'm a full-stack developer passionate about building modern web applications with **React, Next.js, TypeScript, Node.js, and PostgreSQL**. I focus on writing clean, maintainable code, creating accessible and responsive interfaces, and delivering great user experiences.
+I'm a software developer passionate about building modern web applications with **React, Next.js, TypeScript, Node.js, and PostgreSQL**. I focus on writing clean, maintainable code, creating accessible and responsive interfaces, and delivering great user experiences.
 
 I enjoy turning ideas into reliable products that solve real-world problems while continuously improving my knowledge of backend architecture, system design, and scalable application patterns.
 
@@ -32,7 +32,7 @@ I enjoy turning ideas into reliable products that solve real-world problems whil
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+### Web & UI
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
